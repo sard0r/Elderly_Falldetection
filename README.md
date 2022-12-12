@@ -1,2 +1,2 @@
 # Elderly_Falldetection
-IEEE Access github code
+DNN Project Github
